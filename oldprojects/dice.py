@@ -1,4 +1,4 @@
-#Use the randome function so that it'll choose a random side of the dice
+#Use the random function so that it'll choose a random side of the dice
 import random
 
 #Created a dice function that'll call roll the dice and give a random number
